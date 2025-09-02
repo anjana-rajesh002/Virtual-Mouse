@@ -1,2 +1,23 @@
-# Virtual-Mouse
-A Python-based Virtual Mouse application using OpenCV, MediaPipe, and PyAutoGUI.   This project allows users to control their computer's mouse cursor through hand gestures captured via a webcam.   Key features include real-time hand tracking, cursor movement with index finger, and pinch gesture detection for mouse clicks.
+# Virtual Mouse using Hand Tracking
+
+This project is a Python-based **Virtual Mouse** application that allows you to control your computer's cursor using hand gestures captured via a webcam.  
+It uses **OpenCV**, **MediaPipe**, and **PyAutoGUI** to track hand landmarks in real time and map them to screen coordinates.
+
+---
+
+## Features
+- **Real-time hand tracking** using MediaPipe.
+- **Cursor control** with index finger movements.
+- **Pinch gesture detection** for mouse clicks.
+- **Smooth cursor movement** using coordinate mapping.
+
+---
+
+## Technologies Used
+- Python 3.x
+- OpenCV
+- MediaPipe
+- PyAutoGUI
+
+---
+
